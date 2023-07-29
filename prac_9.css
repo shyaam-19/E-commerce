@@ -1,0 +1,131 @@
+.navbar1{
+    background-color: #8A7350;
+    color:#ffffff;
+    padding: 12px 0px;
+    text-align: center;
+    font-weight: 650;
+    font-size: 14px;
+}
+.colornav{
+    background-color: #000000;
+    color: #ffffff!important;
+    font-size: 15px;
+    
+}
+.bold{
+    font-weight: 650;
+}
+
+.toggle{
+    background-color: #000000 !important;
+}
+.search-bar{
+    width: 100%;
+}
+.element{
+    float : right;
+    margin: 0px 10px;
+    /* color: #8A7350 !important; */
+}
+.element1{
+    color: #8A7350 !important;
+}
+li.hover{
+    font-style: italic !important;
+}
+
+.photo{
+    max-width: 2000px;
+    height: auto;
+    margin-top: 35px;
+}
+.footer{
+    background-color: #000000;
+    color: #ffffff;
+    width: 100%;
+    height: 200px;
+}
+.card:hover{
+    cursor: pointer;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    justify-content: space-evenly;
+    background-color: white;
+    height: 260px;
+}
+
+.foot-left{
+    display: flex;
+    height: 16rem;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+} 
+
+.foot-left .fl1 img{
+    height:4rem;
+    margin: 0 13px;
+}
+
+.foot-left h4{
+    margin-bottom: 0;
+    font-weight: 700;
+}
+
+.foot-left .fl1{
+    display:flex;
+    align-items: center;
+}
+
+.footer .foot-cen{
+    display: flex;
+    flex-direction: column;
+    height: 12rem;
+    width: 175px;
+    margin: 0 20px;
+}
+
+.foot-right{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 58px;
+}
+
+.foot-right h5{
+    font-size: 19px;
+    font-weight: 500;
+}
+
+.foot-right span a{
+    font-size: 14px;
+    text-decoration: none;
+}
+
+footer{
+    background-color: white;
+    text-align: center;
+    padding-bottom: 10px;
+    /* height: 10px; */
+    
+}
+
+footer h6{
+    font-size: 13px;
+}
+
+footer svg{
+    margin: 0 2px;
+    height: 12.5px;
+    margin-bottom: 1px;
+}
+
+.qua{
+    display: flex;
+    margin-bottom: 4px;
+}
